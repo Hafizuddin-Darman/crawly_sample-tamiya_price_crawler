@@ -22,3 +22,5 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 tamiya_item_crawler-*.tar
 
+# Ignore generated files copied from /tmp/
+/generated_files/
